@@ -1,1 +1,1 @@
-this is a sample pg
+this is a sample program
